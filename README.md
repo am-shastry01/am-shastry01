@@ -1,28 +1,63 @@
-# 👋 Hey there, I'm Aryan Shastry
+# 👋 Hey there, I'm Aryan Mishra
 
-🎓 Final-year MCA student at Sri Balaji University, Pune  
-💻 Passionate about software development and real-world problem solving  
-🚀 Exploring Big Data (PySpark) and DevOps (Docker, Kubernetes)  
-🛠️ Skilled in Python, Java and SQL  
-📈 Always building, always learning
+Aspiring Data Engineer
+💻 Building scalable data pipelines and backend systems
+🚀 Currently focused on Apache Spark, Kafka, Airflow, Docker, PostgreSQL, and AWS
+📚 Learning by building production-inspired projects instead of tutorial clones
+🎯 Goal: Become a Data Engineer who understands both distributed systems and software engineering fundamentals.
 
-## 💡 Technologies & Tools
+## 🚀 What I'm Currently Working On
 
-- 💻 Languages: Python, Java, JavaScript  
-- 🧠 Databases: PostgreSQL, SQL (Basics)   
-- 🔍 Big Data: PySpark (Learning)  
-- 📦 DevOps: Docker 
-- 🌐 Web: HTML, CSS, JavaScript, Node.js, React  
-- 🔧 Tools: Git, GitHub, VS Code, Eclipse  
-- 🐧 OS: Ubuntu, Windows         
+* ⚡ Real-time Data Engineering projects
+* 📊 Apache Spark (PySpark) & Structured Streaming
+* 📩 Apache Kafka Event Streaming
+* 🔄 ETL Pipeline Development
+* 🗄️ PostgreSQL & Data Modeling
+* 🐳 Docker & Containerized Applications
+* ☁️ Preparing for AWS Data Engineering
+* 🧠 Strengthening DSA, SQL, and System Design
 
-## 📫 Let's Connect
+## 🛠️ Tech Stack
 
-- 📧 [am.shastry01@gmail.com](mailto:am.shastry01@gmail.com)  
-- 🔗 [LinkedIn: Aryan S.](https://www.linkedin.com/in/aryanshastry)  
-- 💻 GitHub: [am-shastry01](https://github.com/am-shastry01)
+### Languages
 
----
+* Python
+* SQL
+* Java
+* JavaScript
 
-> “Code is not just syntax, it’s thinking. And I’m thinking long-term.” 💡
+### Data Engineering
+
+* Apache Spark (PySpark)
+* Apache Kafka
+* ETL Pipelines
+* Data Modeling
+* PostgreSQL
+* MySQL
+
+### Backend Development
+
+* Node.js
+* Express.js
+* REST APIs
+
+### DevOps & Cloud
+
+* Docker
+* Linux (Ubuntu)
+* Git & GitHub
+* AWS (Learning)
+
+### Frontend
+
+* HTML
+* CSS
+* JavaScript
+* React
+
+## 🎯 Current Mission
+
+I'm building projects that simulate real production environments—from ingesting streaming events with Kafka, processing them using Spark Structured Streaming, orchestrating workflows with Airflow, storing data in PostgreSQL, and eventually deploying everything on AWS.
+
+Every project is focused on solving practical engineering problems while learning how large-scale data systems work behind the scenes.
 
