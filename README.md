@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Aryan Mishra
+# 👋 Hey there, I'm Aryan
 
 Aspiring Data Engineer
 💻 Building scalable data pipelines and backend systems
