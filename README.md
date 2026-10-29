@@ -4,8 +4,6 @@
 
 🧠 Building machine learning and GenAI systems for financial fraud detection and enterprise IT operations
 🎯 I care about models that are measurable, explainable and usable, not just accurate in a notebook
-📫 Reach me: aryan.shastry07@gmail.com | [LinkedIn](https://linkedin.com/in/aryan-shastry07)
-
 ---
 
 ## 🔍 What I Work On
