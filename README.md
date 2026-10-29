@@ -1,63 +1,39 @@
 # 👋 Hey there, I'm Aryan
 
-Aspiring Data Engineer
-💻 Building scalable data pipelines and backend systems
-🚀 Currently focused on Apache Spark, Kafka, Airflow, Docker, PostgreSQL, and AWS
-📚 Learning by building production-inspired projects instead of tutorial clones
-🎯 Goal: Become a Data Engineer who understands both distributed systems and software engineering fundamentals.
+**Data Scientist | ML & Generative AI Engineer**
 
-## 🚀 What I'm Currently Working On
+🧠 Building machine learning and GenAI systems for financial fraud detection and enterprise IT operations
+🎯 I care about models that are measurable, explainable and usable, not just accurate in a notebook
+📫 Reach me: aryan.shastry07@gmail.com | [LinkedIn](https://linkedin.com/in/aryan-shastry07)
 
-* ⚡ Real-time Data Engineering projects
-* 📊 Apache Spark (PySpark) & Structured Streaming
-* 📩 Apache Kafka Event Streaming
-* 🔄 ETL Pipeline Development
-* 🗄️ PostgreSQL & Data Modeling
-* 🐳 Docker & Containerized Applications
-* ☁️ Preparing for AWS Data Engineering
-* 🧠 Strengthening DSA, SQL, and System Design
+---
+
+## 🔍 What I Work On
+
+* 🛡️ Fraud detection and transaction risk scoring on highly imbalanced data
+* 🎫 AIOps and ITSM ticket intelligence: automated triage, clustering and anomaly detection
+* 🤖 Retrieval-Augmented Generation (RAG) copilots running on local LLMs
+* 🔎 Explainable ML with SHAP reason codes
+* 🚀 Deploying models as APIs and tracking experiments with MLOps tooling
+
+---
 
 ## 🛠️ Tech Stack
 
 ### Languages
+Python • SQL
 
-* Python
-* SQL
-* Java
-* JavaScript
+### Data Analytics
+Pandas • NumPy • Exploratory Data Analysis • Feature Engineering • Matplotlib • Seaborn
 
-### Data Engineering
+### Machine Learning
+Logistic Regression • Random Forest • XGBoost • LightGBM • Optuna • SHAP • Clustering • Isolation Forest
 
-* Apache Spark (PySpark)
-* Apache Kafka
-* ETL Pipelines
-* Data Modeling
-* PostgreSQL
-* MySQL
+### Deep Learning & NLP
+PyTorch • Sentence-Transformers • Embeddings • Semantic Search • Text Classification
 
-### Backend Development
+### Generative AI
+LLMs • RAG • Vector Search (pgvector) • Ollama (Local LLMs) • Prompt Engineering
 
-* Node.js
-* Express.js
-* REST APIs
-
-### DevOps & Cloud
-
-* Docker
-* Linux (Ubuntu)
-* Git & GitHub
-* AWS (Learning)
-
-### Frontend
-
-* HTML
-* CSS
-* JavaScript
-* React
-
-## 🎯 Current Mission
-
-I'm building projects that simulate real production environments—from ingesting streaming events with Kafka, processing them using Spark Structured Streaming, orchestrating workflows with Airflow, storing data in PostgreSQL, and eventually deploying everything on AWS.
-
-Every project is focused on solving practical engineering problems while learning how large-scale data systems work behind the scenes.
-
+### Deployment & MLOps
+FastAPI • MLflow • Docker • Git & GitHub
